@@ -5,6 +5,7 @@ module.exports = {
     return {
       '/': { page: '/' },
       '/details': { page: '/details' },
+      '/twoparams': { page: '/twoparams' },
     };
   },
 };
